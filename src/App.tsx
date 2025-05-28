@@ -6,7 +6,6 @@ import About from './components/sections/About';
 import Projects from './components/sections/Projects';
 import Services from './components/sections/Services';
 import Certificates from './components/sections/Certificates';
-import Testimonials from './components/sections/Testimonials';
 import Blog from './components/sections/Blog';
 import Contact from './components/sections/Contact';
 import Footer from './components/layout/Footer';
@@ -41,7 +40,6 @@ function App() {
           <Projects />
           <Services />
           <Certificates />
-          <Testimonials />
           <Blog />
           <Contact />
         </main>
