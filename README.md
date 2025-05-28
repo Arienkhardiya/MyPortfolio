@@ -34,8 +34,8 @@ Deployed on Netlify
 📬 Connect With Me
 📧 arienkhardiya@gmail.com
 
-🌐 LinkedIn
+🌐 LinkedIn-https://www.linkedin.com/in/arien-khardiya-14b6a3323/
 
-💻 GitHub
+💻 GitHub-https://github.com/Arienkhardiya
 
 🔗 Live Preview: https://arienkhardiyaportfolio.netlify.app
