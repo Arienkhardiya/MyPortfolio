@@ -53,10 +53,10 @@ const Header: React.FC = () => {
               transition={{ duration: 0.5 }}
               className="flex items-center"
             >
-              <span className="text-primary-500">D</span>
-              <span>ev</span>
-              <span className="text-primary-500">F</span>
-              <span>olio</span>
+              <span className="text-primary-500">A</span>
+              <span>rien</span>
+              <span className="text-primary-500">K</span>
+              <span>hardiya</span>
             </motion.div>
           </a>
           

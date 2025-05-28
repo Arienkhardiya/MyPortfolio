@@ -163,7 +163,7 @@ const Contact: React.FC = () => {
                       onChange={handleChange}
                       required
                       className={inputClasses}
-                      placeholder="John Doe"
+                      placeholder=""
                     />
                   </div>
                   
@@ -179,7 +179,7 @@ const Contact: React.FC = () => {
                       onChange={handleChange}
                       required
                       className={inputClasses}
-                      placeholder="john@example.com"
+                      placeholder=""
                     />
                   </div>
                 </div>
@@ -196,7 +196,7 @@ const Contact: React.FC = () => {
                     onChange={handleChange}
                     required
                     className={inputClasses}
-                    placeholder="Project Inquiry"
+                    placeholder=""
                   />
                 </div>
                 
@@ -212,7 +212,7 @@ const Contact: React.FC = () => {
                     required
                     rows={5}
                     className={inputClasses}
-                    placeholder="Tell me about your project or inquiry..."
+                    placeholder=""
                   />
                 </div>
                 

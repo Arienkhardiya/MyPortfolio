@@ -89,7 +89,7 @@ const Footer: React.FC = () => {
                 </a>
               </li>
               <li>
-                Gujarat, India
+                Rajasthan, India
               </li>
             </ul>
             

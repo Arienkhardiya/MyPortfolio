@@ -181,7 +181,7 @@ const Hero: React.FC = () => {
                   <Github size={22} />
                 </motion.a>
                 <motion.a 
-                  href="https://www.linkedin.com/in/arien-khardiya" 
+                  href="https://www.linkedin.com/in/arien-khardiya-14b6a3323/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-gray-600 dark:text-gray-400 hover:text-primary-500 dark:hover:text-primary-400 transition-colors"
@@ -237,7 +237,7 @@ const Hero: React.FC = () => {
                 }}
               >
                 <img 
-                  src="https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://media.licdn.com/dms/image/v2/D4D03AQF-CJbScKdAlw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723738010810?e=1753920000&v=beta&t=xtRZnWvJ0rMjwnQzN5ESBrhVFCII7Ls0kjbtbrUUznI" 
                   alt="Arien Khardiya"
                   className="w-full h-full object-cover rounded-full"
                 />
