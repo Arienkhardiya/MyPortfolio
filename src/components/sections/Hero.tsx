@@ -237,7 +237,7 @@ const Hero: React.FC = () => {
                 }}
               >
                 <img 
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQF-CJbScKdAlw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723738010810?e=1753920000&v=beta&t=xtRZnWvJ0rMjwnQzN5ESBrhVFCII7Ls0kjbtbrUUznI" 
+                  src="https://media.licdn.com/dms/image/v2/D4D03AQHLqeqx8_87DA/profile-displayphoto-shrink_400_400/B4DZcWrtOpGcAg-/0/1748432246523?e=1753920000&v=beta&t=k47LHperNZaGXYxhYwsbKxGRqEh12iduzVyHTDHOV6M" 
                   alt="Arien Khardiya"
                   className="w-full h-full object-cover rounded-full"
                 />
